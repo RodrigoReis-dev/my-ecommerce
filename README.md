@@ -1,5 +1,5 @@
 # e-commerce (Full Stack App) 'developing ...'
-### Some tech's: HTML5, ES6, Tailwind CSS, React, Redux, REST APIs, Node.js, Express, Knex, Sqlite3, Webpack, Babel.  
+### Some tech's: HTML5, ES6, Tailwind CSS, React, Redux, REST APIs, Node.js, Express, Knex, Sqlite3, Auth0, Webpack, Babel.  
 
 #Getting Started with Create React App
 
